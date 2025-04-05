@@ -15,6 +15,11 @@ NetworksDB-MCP combines the power of:
 * **Model Context Protocol (MCP)**: An open protocol for creating custom AI tools
 * **Natural Language Processing**: Convert plain English queries into NetworksDB API calls
 
+## 📱 Community
+
+Join our Telegram channel for updates, tips, and discussion:
+- **Telegram**: [root_sec](https://t.me/root_sec)
+  
 ## ✨ Features
 
 * **Natural Language Interface**: Query network data using plain English
