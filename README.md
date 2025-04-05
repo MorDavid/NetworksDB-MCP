@@ -70,16 +70,6 @@ Example queries you can ask through the MCP:
 * "Find all networks owned by Microsoft"
 * "Get reverse DNS for IP range 192.168.1.0/24"
 
-## Available Commands
-
-```python
-from networksdb.networksdb_mcp_server import mcp
-
-# The MCP server will handle all commands automatically
-if __name__ == "__main__":
-    mcp.run(transport="stdio")
-```
-
 Core commands:
 - `key_info` - Get API key info and usage stats
 - `ip_info` - Get IP address details
