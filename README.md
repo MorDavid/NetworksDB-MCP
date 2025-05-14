@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mordavid-networksdb-mcp-badge.png)](https://mseep.ai/app/mordavid-networksdb-mcp)
+
 # NetworksDB-MCP
 
 ## Model Context Protocol (MCP) Server for NetworksDB
